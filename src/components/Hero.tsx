@@ -5,8 +5,8 @@ export function Hero() {
   return (
     <header className="min-h-screen flex flex-col items-center justify-center relative px-4">
       <div className="max-w-4xl mx-auto text-center">
-        <h1 className="text-6xl font-bold mb-6 bg-gradient-to-r from-blue-400 to-purple-500 text-transparent bg-clip-text">
-          Lyes
+        <h1 className="text-6xl h-20 font-bold mb-6 bg-gradient-to-r from-blue-400 to-purple-500 text-transparent bg-clip-text">
+          Lyes Ramdane
         </h1>
         <p className="text-2xl text-gray-300 mb-8">Full Stack Developer & Software Engineer</p>
         <div className="flex gap-4 justify-center mb-12">

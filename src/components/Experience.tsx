@@ -3,14 +3,14 @@ import { Briefcase } from 'lucide-react';
 
 const experiences = [
   {
-    period: "2021 - Present",
+    period: "2022 - 2024",
     role: "Frontend Developer",
     company: "Accenture",
     description: "Building user interfaces for the global PHILLIP MORRIS INTERNATIONAL E-commerce platform. Tasks include crafting dynamic interfaces for the IQOS e-commerce platform, writing unit tests, and improving code quality and performance.",
     technologies: ["TypeScript", "React", "Redux", "Jest", "AEM"]
   },
   {
-    period: "2019 - 2021",
+    period: "2020 - 2022",
     role: "Fullstack Software Developer",
     company: "Update Fitness",
     description: "Built a comprehensive suite of systems including an in-house ERP, desktop and mobile applications for customer care and monitoring. Implemented data analytics and reporting features for administrative decision-making.",
