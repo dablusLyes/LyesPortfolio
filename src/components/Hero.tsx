@@ -10,13 +10,13 @@ export function Hero() {
         </h1>
         <p className="text-2xl text-gray-300 mb-8">Full Stack Developer & Software Engineer</p>
         <div className="flex gap-4 justify-center mb-12">
-          <a href="https://github.com" className="hover:text-blue-400 transition-colors">
+          <a href="https://github.com/dablusLyes" className="hover:text-blue-400 transition-colors">
             <Github className="w-6 h-6" />
           </a>
-          <a href="https://linkedin.com" className="hover:text-blue-400 transition-colors">
+          <a href="https://www.linkedin.com/in/lyesramdane/" className="hover:text-blue-400 transition-colors">
             <Linkedin className="w-6 h-6" />
           </a>
-          <a href="mailto:contact@lyes.dev" className="hover:text-blue-400 transition-colors">
+          <a href="mailto:ramdanelyes96@gmail.com" className="hover:text-blue-400 transition-colors">
             <Mail className="w-6 h-6" />
           </a>
         </div>
