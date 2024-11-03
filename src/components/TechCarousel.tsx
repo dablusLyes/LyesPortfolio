@@ -56,7 +56,7 @@ export default function TechCarousel() {
                                 className="flex-none w-1/5 px-4"
                             >
                                 <div className="flex flex-col items-center group">
-                                    <div className="w-16 h-20 flex items-center justify-center rounded-xl bg-gray-800 text-white transition-all duration-300 transform group-hover:-translate-y-1">
+                                    <div className="w-16 h-20 flex items-center justify-center rounded-xl bg-gray-800 text-white transition-all duration-300 transform ">
                                         <tech.icon className="w-8 h-8" />
                                     </div>
                                     <span className="mt-2 text-sm text-gray-300 group-hover:text-white">
