@@ -2,6 +2,13 @@ import { Briefcase } from 'lucide-react';
 
 const experiences = [
   {
+    period: "2025 - now",
+    role: "Froentend developer",
+    company: "Aero",
+    description: "Development and maintainance of an Existing ANGULAR platfrom optimizing performance and reliability",
+    technologies: ["Angular 14-15", "TypeScript", "RxJS", "NgRx", "Angular Material", "Jenkins", "Docker"]
+  }
+  {
     period: "2022 - 2024",
     role: "Frontend Developer",
     company: "Accenture",
