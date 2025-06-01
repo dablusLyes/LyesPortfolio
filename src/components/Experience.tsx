@@ -7,7 +7,7 @@ const experiences = [
     company: "Aero",
     description: "Development and maintainance of an Existing ANGULAR platfrom optimizing performance and reliability",
     technologies: ["Angular 14-15", "TypeScript", "RxJS", "NgRx", "Angular Material", "Jenkins", "Docker"]
-  }
+  },
   {
     period: "2022 - 2024",
     role: "Frontend Developer",
