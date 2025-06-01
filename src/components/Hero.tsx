@@ -9,7 +9,7 @@ export function Hero() {
             Lyes Ramdane
           </h1>
         </div>
-        <p className="text-2xl text-gray-300 mb-8">Full Stack Developer & Software Engineer</p>
+        <p className="text-2xl text-gray-300 mb-8">Full Stack Web Developer</p>
         <div className="flex gap-4 justify-center mb-12">
           <a href="https://github.com/dablusLyes" className="hover:text-blue-400 transition-colors">
             <Github className="w-6 h-6" />
